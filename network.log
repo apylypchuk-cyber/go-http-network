@@ -1,0 +1,10 @@
+[2026-02-07 21:10:59] Device: PC-1, Type: PC, IP: 192.168.10.2, Routing: Static
+[2026-02-07 21:10:59] Device: PC-2, Type: PC, IP: 192.168.10.3, Routing: Static
+[2026-02-07 21:10:59] Device: Laptop-1, Type: Laptop, IP: 192.168.10.10, Routing: Dynamic
+[2026-02-07 21:10:59] Device: Laptop-2, Type: Laptop, IP: 192.168.10.11, Routing: Dynamic
+[2026-02-07 21:10:59] Device: Printer-1, Type: Printer, IP: 192.168.10.50, Routing: Static
+[2026-02-07 21:10:59] Device: PC-3, Type: PC, IP: 192.168.20.2, Routing: Static
+[2026-02-07 21:10:59] Device: PC-4, Type: PC, IP: 192.168.20.3, Routing: Static
+[2026-02-07 21:10:59] Device: Laptop-3, Type: Laptop, IP: 192.168.20.12, Routing: Dynamic
+[2026-02-07 21:10:59] Device: Laptop-4, Type: Laptop, IP: 192.168.20.13, Routing: Dynamic
+[2026-02-07 21:10:59] Device: Printer-2, Type: Printer, IP: 192.168.20.50, Routing: Static
